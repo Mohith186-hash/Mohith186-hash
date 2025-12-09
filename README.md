@@ -88,15 +88,32 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohith186-hash&show_icons=true&theme=radical" height="160px" />
-  <img src="https://streak-stats.demolab.com?user=Mohith186-hash&theme=radical" height="160px" />
+
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats-mohit-mirror.vercel.app/api?username=Mohith186-hash&show_icons=true&theme=radical" 
+    height="160px"
+  />
+
+  <!-- GitHub Streak -->
+  <img 
+    src="https://streak-stats.hamzakhan.dev/?user=Mohith186-hash&theme=radical" 
+    height="160px"
+  />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohith186-hash&layout=compact&theme=radical" height="160px" />
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats-mohit-mirror.vercel.app/api/top-langs/?username=Mohith186-hash&layout=compact&theme=radical" 
+    height="160px"
+  />
+
 </p>
 
 
